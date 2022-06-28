@@ -1,0 +1,15 @@
+E:\GitHub Repos\MadLibTemplate\MadLib\MadLib\bin\Debug\net6.0\MadLib.exe
+E:\GitHub Repos\MadLibTemplate\MadLib\MadLib\bin\Debug\net6.0\MadLib.deps.json
+E:\GitHub Repos\MadLibTemplate\MadLib\MadLib\bin\Debug\net6.0\MadLib.runtimeconfig.json
+E:\GitHub Repos\MadLibTemplate\MadLib\MadLib\bin\Debug\net6.0\MadLib.dll
+E:\GitHub Repos\MadLibTemplate\MadLib\MadLib\bin\Debug\net6.0\MadLib.pdb
+E:\GitHub Repos\MadLibTemplate\MadLib\MadLib\obj\Debug\net6.0\MadLib.csproj.AssemblyReference.cache
+E:\GitHub Repos\MadLibTemplate\MadLib\MadLib\obj\Debug\net6.0\MadLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub Repos\MadLibTemplate\MadLib\MadLib\obj\Debug\net6.0\MadLib.AssemblyInfoInputs.cache
+E:\GitHub Repos\MadLibTemplate\MadLib\MadLib\obj\Debug\net6.0\MadLib.AssemblyInfo.cs
+E:\GitHub Repos\MadLibTemplate\MadLib\MadLib\obj\Debug\net6.0\MadLib.csproj.CoreCompileInputs.cache
+E:\GitHub Repos\MadLibTemplate\MadLib\MadLib\obj\Debug\net6.0\MadLib.dll
+E:\GitHub Repos\MadLibTemplate\MadLib\MadLib\obj\Debug\net6.0\refint\MadLib.dll
+E:\GitHub Repos\MadLibTemplate\MadLib\MadLib\obj\Debug\net6.0\MadLib.pdb
+E:\GitHub Repos\MadLibTemplate\MadLib\MadLib\obj\Debug\net6.0\MadLib.genruntimeconfig.cache
+E:\GitHub Repos\MadLibTemplate\MadLib\MadLib\obj\Debug\net6.0\ref\MadLib.dll
